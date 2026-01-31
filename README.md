@@ -1,6 +1,6 @@
 <img align="right" alt="AR VR Game Dev" width="300" src="https://i.pinimg.com/originals/45/04/28/4504285f9f12ea09bed8366f05a399d4.gif"/>
 
-Hi there, I’m Prasenjeet Sonawane 👋  
+<h1>Hi there, I’m Prasenjeet Sonawane </h1>👋  
 🎮 Unity 3D | AR/VR Game Developer | UI/UX Designer
 
 🚀 Computer Engineering graduate from PICT, Pune, with strong hands-on experience in Unity 3D, AR/VR, and immersive game development. Currently working at C-DAC Mumbai on interactive and educational VR experiences under the OLab project.
