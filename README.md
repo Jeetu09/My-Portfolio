@@ -1,4 +1,4 @@
-<img align="right" alt="AR VR Game Dev" width="300" src="https://dribbble.com/shots/4135340-VR-Movements"/>
+<img align="right" alt="AR VR Game Dev" width="300" src="https://cdn.dribbble.com/userupload/22516039/file/original-d7e8937c16001bee84aff57192e52f70.gif"/>
 
 <h1>Hi there, I’m Prasenjeet Sonawane </h1>👋  
 🎮 Unity 3D | AR/VR Game Developer | UI/UX Designer
@@ -11,12 +11,12 @@
 
 📚 Research-oriented developer with IEEE publications in mobile VR and immersive technologies.
 
-Skills:  
+### Skills -
 Unity 3D | AR/VR | Game Development | UI/UX Design | 3D Modeling | WebGL
 
-Tools & Technologies:  
+### Tools & Technologies:  
 C++ | C# | Unity | Blender | Figma | Adobe Creative Suite | Canva | XR Toolkit
 
-📫 Let’s connect & collaborate!  
-LinkedIn | GitHub  
+###  Let’s connect & collaborate!  
+Portfolio Website: https://prasenjeet-sonawane.netlify.app/
 Email: jeetssonawane0102@gmail.com
