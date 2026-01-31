@@ -1,6 +1,6 @@
 <img align="right" alt="AR VR Game Dev" width="300" src="https://cdn.dribbble.com/userupload/22516039/file/original-d7e8937c16001bee84aff57192e52f70.gif"/>
 
-<h1>Hi there, I’m Prasenjeet Sonawane </h1>👋  
+<h1>Hi there, I’m Prasenjeet Sonawane 👋</h1>  
 
 <h2>🎮 Unity 3D | AR/VR Game Developer | UI/UX Designer</h2>
 
