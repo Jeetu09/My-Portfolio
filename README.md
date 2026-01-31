@@ -18,5 +18,15 @@ Unity 3D | AR/VR | Game Development | UI/UX Design | 3D Modeling | WebGL
 C++ | C# | Unity | Blender | Figma | Adobe Creative Suite | Canva | XR Toolkit
 
 ###  Let’s connect & collaborate!  
-Portfolio Website: https://prasenjeet-sonawane.netlify.app/
-Email: jeetssonawane0102@gmail.com
+- [Portfolio Website](https://prasenjeet-sonawane.netlify.app/)
+- [Email] - jeetssonawane0102@gmail.com
+- [Github]()
+
+### Feel Free to Connect!
+
+You can reach out to me through the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/samidharamteke/)
+- [GitHub](https://github.com/Jeetu09)
+- Email: samidharamteke.107@gmail.com
+
