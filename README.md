@@ -18,10 +18,10 @@ Unity 3D | AR/VR | Game Development | UI/UX Design | 3D Modeling | WebGL
 C++ | C# | Unity | Blender | Figma | Adobe Creative Suite | Canva | XR Toolkit
 
 <div>
-<img height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png"/> 
- <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/330px-Blender_logo_no_text.svg.png"/>  
- <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1920px-Figma-logo.svg.png"/>
- <img height="40" width="40" src="https://www.nicepng.com/png/full/71-718609_vuforia-is-the-most-popular-sdk-that-enables.png"/>
+<img height="60" width="60" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png"/> 
+ <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/330px-Blender_logo_no_text.svg.png"/>  
+ <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1920px-Figma-logo.svg.png"/>
+ <img height="60" width="60" src="https://www.nicepng.com/png/full/71-718609_vuforia-is-the-most-popular-sdk-that-enables.png"/>
 </div>
   
 
