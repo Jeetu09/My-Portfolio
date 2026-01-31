@@ -24,5 +24,5 @@ C++ | C# | Unity | Blender | Figma | Adobe Creative Suite | Canva | XR Toolkit
 ###  Let’s connect & collaborate!  
 - [Portfolio Website](https://prasenjeet-sonawane.netlify.app/)
 - [Github](https://github.com/Jeetu09)
-- Email - jeetssonawane0102@gmail.com
+- Email - jeetssonawane0102@gmail.com.
 
