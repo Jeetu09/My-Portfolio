@@ -4,6 +4,12 @@
 🚀 Computer Engineering graduate from PICT, Pune, with strong hands-on experience in Unity 3D, AR/VR, and immersive game development. Currently working at C-DAC Mumbai on interactive and educational VR experiences under the OLab project.Skilled in building AR/VR applications using Unity, XR Interaction Toolkit, WebGL, and VR development for Oculus Quest 2 & 3. I focus on creating smooth, engaging, and user-friendly 3D experiences. Passionate about UI/UX design and game interfaces. I enjoy combining clean design with intuitive interactions to deliver meaningful digital experiences, especially in education.
 📚 Research-oriented developer with IEEE publications in mobile VR and immersive technologies.
 
+<div align="center">
+  <img width="300" height="200"
+       alt="ChatGPT Image"
+       src="https://github.com/user-attachments/assets/fef6b8cc-16f8-4d6e-b119-0ab692b120af" />
+</div>
+
 
 - 🌱 I’m currently learning **Metaverse,UI/UX,AR/VR**
 
